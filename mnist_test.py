@@ -4,8 +4,8 @@ from spikingtorch.data import mnist
 import argparse
 from torch.nn import functional as F
 from tqdm import tqdm
-from task.spikingtorch.spikingtorch.network import SingleFeedForward
-from task.spikingtorch.spikingtorch import encoding
+from spikingtorch.network import SingleFeedForward
+from spikingtorch import encoding
 
 def train(net, train_loader, optimizer, encoder, args):
     train_samples = 0
