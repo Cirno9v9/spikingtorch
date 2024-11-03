@@ -4,4 +4,4 @@
 # 忽略 datasets 目录中的所有内容
 spikingtorch/datasets/*
 
-!spikingtorch/datasets
+!spikingtorch/datasets/
