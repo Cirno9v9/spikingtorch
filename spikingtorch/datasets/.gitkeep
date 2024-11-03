@@ -1,6 +1,0 @@
-# 忽略 datasets 目录中的所有内容
-spikingtorch/datasets/*
-
-# 保留 datasets 目录本身
-!spikingtorch/datasets/
-!spikingtorch/datasets/.gitkeep
