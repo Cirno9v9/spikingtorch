@@ -5,3 +5,4 @@
 spikingtorch/datasets/*
 
 !spikingtorch/datasets/
+!spikingtorch/datasets/
