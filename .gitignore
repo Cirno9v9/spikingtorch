@@ -3,6 +3,3 @@
 
 # 忽略 datasets 目录中的所有内容
 datasets/*
-
-# 保留 datasets 目录本身
-!datasets/
