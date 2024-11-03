@@ -2,4 +2,4 @@
 **/__pycache__/
 
 # 忽略 datasets 目录中的所有内容
-datasets/*
+spikingtorch/datasets/*
